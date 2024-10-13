@@ -1,0 +1,26 @@
+body {
+    background-color: #57b7e1;
+}
+
+p {
+    text-align: center;
+    font-size: 10px;
+    margin: 10px;
+}
+
+h1 {
+    background-color: #44faaa;
+    font-size: 30px;
+}
+
+.ae {
+    text-align: center;
+}
+
+.entry {
+    background-color: #bc2d96;
+}
+
+head {
+    display: none;
+}
