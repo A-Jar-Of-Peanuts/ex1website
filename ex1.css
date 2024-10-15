@@ -2,25 +2,26 @@ body {
     background-color: #57b7e1;
 }
 
-p {
-    text-align: center;
+#body2 {
     font-size: 10px;
-    margin: 10px;
+    color: #d1f43f;
+    margin: 15px;
 }
 
-h1 {
-    background-color: #44faaa;
-    font-size: 30px;
+#body3 {
+    background-color: #ef1789;
 }
 
-.ae {
-    text-align: center;
+#a {
+    background-color: #fff;
+}
+#b {
+    background-color: #5f0;
+}
+#c {
+    background-color: #f00;
 }
 
-.entry {
-    background-color: #bc2d96;
-}
-
-head {
-    display: none;
+.nested {
+    margin: 20px;
 }
